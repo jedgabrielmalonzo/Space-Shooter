@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 93ae1cba1558cbf4b83cf8ba1137a49b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 229
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914803ab90c867f4da68374712de995b
+      internalID: -1523446628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 219
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5572268dd10a2747974fc39f99a9132
+      internalID: 704600888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 206
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d2f3659539ccf4991ac41df64e5f36
+      internalID: 1333389540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 200
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ce65e4b6286d47b186170a3d18f2b
+      internalID: -2068332519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 256
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1244e32c26b036443a81859bf00328a7
+      internalID: 1964554159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 186
+        width: 107
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27861332a53ea447bc14217d1ecd2e3
+      internalID: -944214176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 247
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eeca20a1547ce4080b03495912c4b2
+      internalID: -1030343603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 247
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1edc1c4f8551204b91d7526522f59b7
+      internalID: -1860640567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e876e5bd9bbff34ba4074f85d0e7c53
+      internalID: 558201759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 219
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da32ca79211fbd64e87a240eb8dbb88d
+      internalID: -1142325930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 52
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dfe068093b54144947fa29e56578eb
+      internalID: 1138817112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 148
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d303de4600845234db9f1fcc3c503f82
+      internalID: 1516887899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 148
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a470bef119dc65f46ae492064583664f
+      internalID: 1727866889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 145
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73d9e476efe9ae4b9bf98893b81ef9a
+      internalID: 609789920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 68
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a9e1cb4da42d54ca78deb4c1f71eb0
+      internalID: -1897372667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 141
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f4d5ccbd1344e4fbe92edd9ae02fc5
+      internalID: -1173186320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 135
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ba498b2bca064db8116ca3f37483c
+      internalID: 1741011435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd6935871e88384fbe5cf5f59b1953d
+      internalID: 1472978566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e69833d0af0574a88cf4ecaa9ce8cc
+      internalID: -1936907349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 71
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70e90b0a3fdb9f4181bb6ae82eab6a2
+      internalID: -1280912677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 75
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3500612eb0ba4fa74a702ffe463be
+      internalID: -1994549365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 75
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973eff7ec20dfe54999b00b35719f083
+      internalID: -1575233143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 112
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71001c7a8d4aea4aa39366a109e94f3
+      internalID: -1762346504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 104
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0a5ecffd051af429756983943c37fe
+      internalID: 804355084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 98
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04402609a1502724fb1fa0fc2b351208
+      internalID: 1834297979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 95
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de7dc3f6d247145b8a6f7022f2064b
+      internalID: -639032734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 85
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fcfe0e52cb9374d84604641ca6f2e1
+      internalID: -1872002736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 85
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000e871fd0338dc4bbe4feaa2077d5ab
+      internalID: -2058202008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 82
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e823681504d225442bb522b67168a5a3
+      internalID: 681426379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 61
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e25948f41ae88478b695be390e825c
+      internalID: 542597824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 61
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dc06acf594c9843b03a9369ded7d57
+      internalID: -287190288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723a35725cdb5d5489a6f7179f05a992
+      internalID: -1075142945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dedef6d3d767de4e94b8c63815d9e19
+      internalID: 353164499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 58
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384be517d91f63c43854d6d548fad334
+      internalID: -1291463879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 61
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386b21a3c7fecbc4d950aba558aa6ecb
+      internalID: 292963615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 766f115e9f1aa98488d4bdfc179e1bc0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_0: -1523446628
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_1: 704600888
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_10: 1138817112
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_11: 1516887899
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_12: 1727866889
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_13: 609789920
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_14: -1897372667
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_15: -1173186320
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_16: 1741011435
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_17: 1472978566
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_18: -1936907349
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_19: -1280912677
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_2: 1333389540
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_20: -1994549365
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_21: -1575233143
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_22: -1762346504
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_23: 804355084
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_24: 1834297979
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_25: -639032734
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_26: -1872002736
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_27: -2058202008
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_28: 681426379
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_29: 542597824
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_3: -2068332519
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_30: -287190288
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_31: -1075142945
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_32: 353164499
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_33: -1291463879
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_34: 292963615
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_4: 1964554159
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_5: -944214176
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_6: -1030343603
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_7: -1860640567
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_8: 558201759
+      pixel-art-explosion-boom-or-burst-animate-sprites-vector-removebg-preview_9: -1142325930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
